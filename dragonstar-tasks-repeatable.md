@@ -21,3 +21,19 @@
 | R018 | Check in with a friend | 5-10 min | High | 2 | Weekly | Socialization | Reaching out shows that I care about people and what's going on in their life; helps me feel connected by knowing what's important to them |
 | R019 | Schedule a meetup with a friend  | 15 min | High | 4 | Biweekly | Socialization | Reaching out shows that I care about people and what's going on in their life; helps me feel connected by knowing what's important to them |
 | R020 | Work on a cosplay project | 30+ min | Medium | 3 | When energy > 5 | Hobby | Working on cosplay in small but consistent increments helps complete large, ambitious projects without burning out |
+
+## Self-Care Tasks
+All tasks in this category are focused on helping me feel better when things are hard. I should be encoraged to do 1-2 every day, but they are never mandatory and cannot become Dragon Tasks. 
+| ID | Task Name | Time Estimate | Stars | Category | Notes |
+| --- | --- | --- | --- | --- | --- |
+| N01 | Meditation | 10 minutes | 2 | Self-Care | |
+| N02 | Reading for Fun | Any Duration | 2 | Self-Care | Internet articles don't count. |
+| N03 | Walk Outdoors | Any Duration | 2 | Self-Care | Getting out of the house is going to help more than you think. |
+| N04 | Sing Along | 5 minutes | 2 | Self-Care | Pick a song from the Motivaton playlist and lean into it, you're a rock god |
+| N05 | Call or text a supportive friend | Any Duration | 2 | Self-Care | Just talk about what's bothering you. Ask for help if you need help |
+| N06 | Ask for help | Any Duration | 5 | Self-Care | Help can mean a lot of things. Sometimes it's just having a friend around, reading or crafting near each other. |
+| N07 | Color or Sketch | Any Duration | 3 | Self-Care | Something relaxing, just for fun. |
+| N08 | Write a gratitude Note | Any Duration | 3 | Self-Care | It helps to remember what's good, what's going well. |
+| N09 | Drink More Water | Any Duration | 1 | Self-Care | Not feeling good? Did you maybe just get dehydrated and not notice? |
+| N10 | Visit the Sauna | Any Duration | 3 | Self-Care | Ideally after the gym, but it is relaxing and refreshing either way |
+| N11 | Go to Bed Early | Before 11pm | 2 | Self-Care | Getting to bed on time is essential |
