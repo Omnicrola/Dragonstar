@@ -55,6 +55,7 @@ Special achievements are awarded during the End of Day Procedure. Some of their 
   * Earn a 🐉 Dragon Token, which can be used to buy Dragon Loot Boxes
 * **Proactive Maintenence** : Complete 2 or more Self-Care tasks when a Negative Status Effect is NOT active = **Healing Aura✨**
 * **Rigorous Protection** : Complete at least 1 Self-Care task per day for 5 consecutive days when a Negative Status Effect is NOT active = **Regeneration Burst🛡️**
+* **Tachyon Skip** : Complete any number of tasks after having no Quest Log for the previous day = Tomorrow get +10 stars ⭐ at the beginning of the day.
 
 ## Dragon's Hoard System (Delayed Tasks)
 If a task is not completed on a given day, it becomes a Dragon Task. Each day it is delayed, its rewards change according to the list below.
