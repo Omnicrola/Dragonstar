@@ -41,19 +41,20 @@ There are 3 types of Standard Loot Boxes that can be bought with stars, and a Dr
 
 ### Special Achievements
 Special achievements are awarded during the End of Day Procedure. Some of their effects apply immediately, and some of them can be saved as Rewards for another day.  Here is the list of possible achievements.
-* Streak Bonus: Complete all tasks for 3 consecutive days = +2 bonus stars per task on day 4
-* Streak Master: Complete all tasks for 7 consecutive days = Double stars on all tasks for one full day (limit 1)
-* Ultra Streak: Complete all tasks for 14 consecutive days = Triple stars on all tasks for one full day (limit 1)
-* Early Riser: Complete all Daily Maintenance tasks before 12 noon = All tasks completed that day each get +1 star
-* Quest Clearer: Complete all scheduled tasks for a day = Next day, receive a "Power Hour" bonus (double stars for 1 hour)
-* Balanced Adventurer: Complete tasks across 3+ different categories in one day = +5 bonus stars for that day
-* Category Master: Complete 5 tasks in same category in the same day = +10 bonus stars for that day
-* Time Lord: Complete 3 tasks in the Scheduling category in the same day = Receive bonus stars equal to the numerical value of the current day of the week (minimum 1)
-* Tireless: Complete 2 or more Dragon Tasks in the same day = +10 stars for that day
-* Dragon Ward: Complete a full week without creating any new Dragon Tasks = Earn +10 bonus stars for that day, and a 🐉 Dragon Token
-* Dragon Slayer : When completing any Dragon Task:
+* **Streak Bonus**: Complete all tasks for 3 consecutive days = +2 bonus stars per task on day 4
+* **Streak Master**: Complete all tasks for 7 consecutive days = Nova Amplifier💫
+* **Ultra Streak**: Complete all tasks for 14 consecutive days = Supernova Amplifier🌟
+* **Early Riser**: Complete all Daily Maintenance tasks before 12 noon = ALL tasks completed that day each get +1 star
+* **Clearly Consistent**: Complete all scheduled tasks for a day = Next day, 1 random task gets 2x stars during the End of Day Procedure
+* **Category Mastery**: Complete 5 tasks in same category in the same day = +10 bonus stars for that day
+* **Time Lord**: Complete 3 tasks in the Scheduling category in the same day = Receive bonus stars equal to the numerical value of the current day of the week (minimum 1)
+* **Tireless**: Complete 2 or more Dragon Tasks in the same day = +10 stars for that day
+* **Dragon Ward**: Complete a full week (7 days) without creating any new Dragon Tasks = Earn +10 bonus stars for that day, and a 🐉 Dragon Token
+* **Dragon Slayer** : When completing any Dragon Task:
   * Receive original stars plus applicable bonus (max +3)
   * Earn a 🐉 Dragon Token, which can be used to buy Dragon Loot Boxes
+* **Proactive Maintenence** : Complete 2 or more Self-Care tasks when a Negative Status Effect is NOT active = **Healing Aura✨**
+* **Rigorous Protection** : Complete at least 1 Self-Care task per day for 5 consecutive days when a Negative Status Effect is NOT active = **Regeneration Burst🛡️**
 
 ## Dragon's Hoard System (Delayed Tasks)
 If a task is not completed on a given day, it becomes a Dragon Task. Each day it is delayed, its rewards change according to the list below.
@@ -63,6 +64,29 @@ When a task is repeatedly delayed:
 * Third Delay: Task becomes an “Elder Dragon” with a 🐉 symbol, star value increases by another +1
 * Maximum Bonus: Dragon Tasks earn maximum +3 bonus stars regardless of delay count
 
+## Negative Status Effects
+Some days I will not feel good for any number of various reasons. On these days it is important that I not overwhelm myself or give myself too much to do, so that I don't risk further burnout. To address this, I have the option at any time to declare a negative status effect. Each Negative Status Effect is a little different, but all of them are ment to help me be kinder to myself and work toward getting better.  
+
+### List of Status Effects
+#### Overwhelmed 🌊
+The current situation is a bit overwhelming, but it will probably resolve itself soon. Meanwhile I should take a deep breath, and take care of myself before trying to help others.
+* All tasks are worth 1 less star ⭐ (minimum 1⭐).
+* All Self-Care tasks are worth one extra star ⭐.
+
+#### Burnout 🔥
+I've pushed myself a little too much and need a bit of time to recover.
+* All tasks are worth 2 less stars ⭐ (minimum 1⭐).
+* All Self-Care tasks are worth 2 extra stars ⭐.
+* No non-Maintenence tasks will be added to the list, any existing non-Maintenence tasks are removed with no penalty.
+* If 3 or more Self-Care tasks are completed, 1 small loot box is automatically awarded.
+
+#### Curse of Exhaustion 🔮 
+Something has emotionally drained me, and I need to process and reflect on the current situation.
+* All tasks are worth 3 less stars ⭐ (minimum 1⭐).
+* All Self-Care tasks are worth 3 extra stars ⭐.
+* No non-Maintenence tasks will be added to the list, any existing non-Maintenence tasks are removed with no penalty.
+* Any existing Dragon Tasks are permanently demoted back to non-Dragon status.
+* If 5 or more Self-Care tasks are completed, 1 Medium Loot Box is automatically awarded.
 
 ## Berserker Quest Mode
 Berserker Mode is a special mode that awards stars primarily based on time, rather than individual tasks. This is useful for doing a lot of things that need doing, but might overlap, or for groups of tasks. It can also be a good mode for starting a new project or category of task.
