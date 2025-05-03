@@ -1,16 +1,21 @@
 # Appendix A - Quest Log Format
-Appendix A describes the quest log format that should be used to display the end-of-day summary.
+Appendix A describes the quest log format that should be used to display the end-of-day summary. Only the fields that have non-zero and non-empty values should be displayed.
 
 # Dragonstar Quest Log for {{TODAY’S DATE}}
-## Tasks Completed
-{{LIST TASKS HERE}}
 
 ## Star Report
+* Previous Stars Earned : {{NUMBER OF STARS FROM PREVIOUS DAY}}
 * Total Stars Earned Today: {{NUMBER OF STARS EARNED}} ⭐
 * Dragon Tokens Earned Today: {{NUMBER OF DRAGON TOKENS EARNED TODAY}} 🐉
 * Stars Spent Today : {{STARS SPENT ON LOOT BOXES TODAY}}
-* Running Star Total : {{TOTAL NUMBER OF STARS}} ⭐
-* Running Dragon Token Total : {{TOTAL NUMBER OF DRAGON TOKENS}} 🐉
+* New Star Total : {{TOTAL NUMBER OF STARS}} ⭐
+* New Dragon Token Total : {{TOTAL NUMBER OF DRAGON TOKENS}} 🐉
+
+## Current Inventory
+* {{LIST ITEMS IN INVENTORY}}
+
+## Tasks Completed
+* {{LIST TASKS HERE}}
 
 ## Achievement Earned
 * {{LIST ACHIEVEMENTS HERE}}
