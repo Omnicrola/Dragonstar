@@ -88,4 +88,10 @@ Commission a piece of art from a favorite artist
 Detroit Barcade evening with friends
 Professional photoshoot of me in Cosplay
 
+# Appendix D - Items
+Items are things that can be kept in Inventory and used later. They are often the rewards from achievements and loot boxes.  Below is a list of items and their effects.
 
+**Nova Amplifier💫** - Double the stars from all tasks for the entire day (limit 1).
+**Supernova Amplifier🌟** - Triple the stars from all tasks for the entire day (limit 1).
+**Healing Aura✨** - Only usable when a Negative Status Effect is active. All Self-Care tasks earn an extra +1 ⭐ (limit 1, expires after 7 days).
+**Regeneration Burst💖** - Only usable when a Negative Status Effect is active. All Self-Care tasks earn an extra +3 ⭐ (limit 1, expires after 7 days).
