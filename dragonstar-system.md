@@ -40,22 +40,7 @@ Loot boxes are used to randomly determine rewards. The cost of each Loot Box, an
 There are 3 types of Standard Loot Boxes that can be bought with stars, and a Dragon Loot Box that can only be bought with Dragon Tokens.
 
 ### Special Achievements
-Special achievements are awarded during the End of Day Procedure. Some of their effects apply immediately, and some of them can be saved as Rewards for another day.  Here is the list of possible achievements.
-* **Streak Bonus**: Complete all tasks for 3 consecutive days = +2 bonus stars per task on day 4
-* **Streak Master**: Complete all tasks for 7 consecutive days = Nova Amplifier💫
-* **Ultra Streak**: Complete all tasks for 14 consecutive days = Supernova Amplifier🌟
-* **Early Riser**: Complete all Daily Maintenance tasks before 12 noon = ALL tasks completed that day each get +1 star
-* **Clearly Consistent**: Complete all scheduled tasks for a day = Next day, 1 random task gets 2x stars during the End of Day Procedure
-* **Category Mastery**: Complete 5 tasks in same category in the same day = +10 bonus stars for that day
-* **Time Lord**: Complete 3 tasks in the Scheduling category in the same day = Receive bonus stars equal to the numerical value of the current day of the week (minimum 1)
-* **Tireless**: Complete 2 or more Dragon Tasks in the same day = +10 stars for that day
-* **Dragon Ward**: Complete a full week (7 days) without creating any new Dragon Tasks = Earn +10 bonus stars for that day, and a 🐉 Dragon Token
-* **Dragon Slayer** : When completing any Dragon Task:
-  * Receive original stars plus applicable bonus (max +3)
-  * Earn a 🐉 Dragon Token, which can be used to buy Dragon Loot Boxes
-* **Proactive Maintenence** : Complete 2 or more Self-Care tasks when a Negative Status Effect is NOT active = **Healing Aura✨**
-* **Rigorous Protection** : Complete at least 1 Self-Care task per day for 5 consecutive days when a Negative Status Effect is NOT active = **Regeneration Burst🛡️**
-* **Tachyon Skip** : Complete any number of tasks after having no Quest Log for the previous day = Tomorrow get +10 stars ⭐ at the beginning of the day.
+Special achievements are awarded during the End of Day Procedure. Some of their effects apply immediately, and some of them can be saved as Items for another day. Some achievements can only be earned by earning other achievements. The list of possible achievements is located in Appendix F.
 
 ## Dragon's Hoard System (Delayed Tasks)
 If a task is not completed on a given day, it becomes a Dragon Task. Each day it is delayed, its rewards change according to the list below.
