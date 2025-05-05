@@ -12,3 +12,4 @@
 | 4/29/2025 | R001, R002, R003 | 5 | 0 | 0 | 54 | 0 | None | None | None | R004, R015, R018, S0005 | Power Hour Achievement |
 | 4/30/2025 | R001, R002, R003, R018 | 7 | 0 | 0 | 56 | 0 | None | None | None | R004 | Power Hour Achievement |
 | 5/3/2025 | R001, R002, R003, R004, Take the car to the mechanic, R016, R014, R010, Mow the backyard, R018, S0005 | 26 | 0 | 0 | 82 | 0 | Balanced Adventurer | None | None | S0001 | Power Hour Achievement |
+| 5/4/2025 | R001, R002, R003, R004, R005, R008 | 12 | 0 | 0 | 68 | 0 | None | None | None | R006 | Power Hour Achievement |
