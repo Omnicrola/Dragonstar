@@ -99,10 +99,10 @@ Items are things that can be kept in Inventory and used later. They are often th
 # Appendix E - Achievements
 Achievements are awarded at the end of each day during the End of Day Procedure. An achievement can be awarded from combinations of tasks, consecutive conditions, and combinations of other achievements.  Achievements can award more stars, Items, or Loot Boxes. Some achievements do not have any immediate rewards, but are used as preconditions for other achievements.
 
-* **Streak**: Complete all tasks for 3 consecutive days = +5 bonus stars
-* **Mega Streak**: Complete all tasks for 5 consecutive days = Nova Amplifier💫
-* **Super Streak**: Complete all tasks for 7 consecutive days = Supernova Amplifier🌟
-* **Ultra Streak**: Complete all tasks for 14 consecutive days = Epic Loot Box
+* **Star Collector**: Complete all tasks for 3 consecutive days = +5 bonus stars
+* **Star Accumulator**: Complete all tasks for 5 consecutive days = Nova Amplifier💫
+* **Star Guardian**: Complete all tasks for 7 consecutive days = Supernova Amplifier🌟
+* **Star Commander**: Complete all tasks for 14 consecutive days = Epic Loot Box
 * **Early Riser**: Complete all Daily Maintenance tasks before 12 noon = ALL tasks completed that day each get +1 star
 * **Constant Vigilance**: Earn the Early Riser achievement 5 days in a row = Small Loot Box
 * **Clearly Consistent**: Complete all scheduled tasks for a day = Next day, 1 random task gets 2x stars during the End of Day Procedure
@@ -110,28 +110,31 @@ Achievements are awarded at the end of each day during the End of Day Procedure.
 * **Time Lord**: Complete 3 tasks in the Scheduling category in the same day = Receive bonus stars equal to the numerical value of the current day of the week (minimum 1)
 * **Tireless**: Complete at least 10 tasks in the same day = +10 stars for that day
 * **Draconic Might**: Complete 2 or more Dragon Tasks in the same day = +1 Bonus Dragon Token awarded
+* **Dragon Ward** : End the day without having created any new Dragon Tasks = +5 stars for that day
 * **Silver Dragon Ward**: Go 3 consecutive days without creating any new Dragon Tasks = Earn +10 bonus stars for that day
 * **Platinum Dragon Ward**: Go 7 consecutive days without creating any new Dragon Tasks = Earn +10 bonus stars for that day, and a 🐉 Dragon Token
-* **Dragon Expert** : Earn 10 Dragon Tokens (lifetime)
-* **Draconic Centurian** : Earn 100 Dragon Tokens (lifetime)
+* **Dragon Apprentice** : Earn the **Dragon Ward** achievement 5 times
+* **Dragon Knight** : Earn the **Dragon Apprentice** achievement 5 times
+* **Dragon Guardian** : Earn the **Dragon Knight** achievement 5 times
+* **Dragon King** : Earn the **Dragon Guardian** achievement 5 times
 * **Dragon Slayer** : Complete any Dragon Task = Receive original stars plus applicable bonus (max +3) and earn a 🐉 Dragon Token
 * **Proactive Maintenence** : Complete 2 or more Self-Care tasks when a Negative Status Effect is NOT active = **Healing Aura✨**
 * **Rigorous Protection** : Complete at least 1 Self-Care task per day for 5 consecutive days when a Negative Status Effect is NOT active = **Regeneration Burst🛡️**
 * **Tachyon Skip** : Complete any number of tasks after having no Quest Log for the previous day = Get +10 bonus stars for the day. Tomorrow get +10 stars ⭐ at the beginning of the day.
-* **Second Wind** : Complete 3 tasks after 6pm = Start the next day with +5 stars
+* **Second Wind** : Complete 3 tasks after 6pm = Earn +5 stars for the day, and start the next day with +5 stars
 * **Iron Will** : Complete an unscheduled Dragon Task with a Negative Status Effect active
 * **Self-Enlightenment** : Earn the **Proactive Maintenence** achievement 5 times in the same week = 1 🐉 Dragon Token
 * **Phoenix Rising** - Complete all planned tasks after having an active Negative Status Effect the previous day = All tasks earn double stars
 * **Solar Phoenix** - Earn the **Phoenix Rising** achievement 5 times
-* **Phoenix Constellation** - Earn the **Phoenix Constellation** achievement 5 times
+* **Phoenix Constellation** - Earn the **Solar Phoenix** achievement 5 times
 * **Galactic Phoenix** - Earn the **Phoenix Constellation** achievement 5 times
 * **Steady Recovery** - Complete a Self-Care task every day for 3 days after a Negative Status Effect ends = 1 free Small Loot Box
 * **Emotional Intelligence** - Go 7 consecutive days without declaring a Negative Status Effect.
 * **Routine Builder** - Complete all Daily Maintenence tasks for 3 consecutive days.
 * **Habit Former** - Earn the **Routine Builder** achievement 5 or more times in the same calendar month.
 * **Lifestyle Integrator** - Earn the **Habit Former** achievement 3 months in a row.
-* **Self-Disipline Master** - Ear the **Habit Former** achievement 6 months in a row.
+* **Self-Disipline Master** - Earn the **Habit Former** achievement 6 months in a row.
 * **Social Networker** - Complete 3 Socialization tasks in the same calendar week.
 * **Social Connector** - Earn the **Social Networker** achievement 3 times.
-* **Social Maestro** - Earn the **Social Connector* achievement 3 times.
-* 
+* **Social Maestro** - Earn the **Social Connector** achievement 3 times.
+
