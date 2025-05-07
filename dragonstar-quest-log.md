@@ -14,3 +14,4 @@
 | 5/3/2025 | R001, R002, R003, R004, Take the car to the mechanic, R016, R014, R010, Mow the backyard, R018, S0005 | 26 | 0 | 0 | 82 | 0 | Balanced Adventurer | None | None | S0001 | Power Hour Achievement |
 | 5/4/2025 | R001, R002, R003, R004, R005, R008 | 12 | 0 | 0 | 68 | 0 | None | None | None | R006 | Power Hour Achievement |
 | 5/5/2025 | R001, R002, R003, R009, Order Mother's Day Flowers🥚, Approve car maintenance, R004🐲, N03, N06, N09 | 24 | 1 | 0 | 92 | 1 | Dragon Slayer, Tireless, Early Riser | None | R004🐲, Order Mother's Day Flowers🥚 | None | Power Hour Achievement |
+| 5/7/2025 | R001, R002, R003, R009, R018 | 8 | 0 | 0 | 100 | 1 | Early Riser | None | None | R015🥚 | Power Hour Achievement |
