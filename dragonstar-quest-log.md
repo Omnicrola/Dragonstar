@@ -17,3 +17,4 @@
 | 5/6/2025 | R001, R002, R003, R009, R018 | 8 | 0 | 0 | 100 | 1 | Early Riser | None | None | R015🥚 | Power Hour Achievement |
 | 5/7/2025 | R001, R002, R003, N03 (x2), N09, Clean inside car, Call Mom | 16 | 0 | 100 | 41 | 1 | Early Riser | 1 large (10 ⭐ stars, A home movie night, 15 ⭐ stars) | None | R015🐲 | Power Hour Achievement, A home movie night (invite a friend!) |
 | 5/9/2025 | R001, R002, R003, R004, R018, N03 | 9 | 0 | 0 | 50 | 1 | Early Riser | None | None | None | Power Hour Achievement, A home movie night (invite a friend!) |
+| 5/10/2025 | R001, R002, N03, N09 | 12 | 0 | 0 | 62 | 1 | None | None | None | None | Power Hour Achievement, A home movie night (invite a friend!) |
