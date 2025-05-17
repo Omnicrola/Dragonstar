@@ -23,3 +23,4 @@
 | 5/13/2025 | R001, R002, R003, R018, R015🐲 | 13 | 1 | 0 | 75 | 2 | Dragon Slayer | None | R015🐲 | None | A home movie night (invite a friend!) | None |
 | 5/14/2025 | R001, R002, R003, N03, N09 | 8 | 0 | 0 | 83 | 2 | Proactive Maintenance | None | None | None |  A home movie night (invite a friend!), Healing Aura✨ | None |
 | 5/15/2025 | R001, R002, R003, R004 | 7 | 0 | 50 | 67 | 2 | Dragon Ward, Routine Builder | 1 medium (A specialty tea or coffee sampler pack, 1 hour of guilt-free book reading) | None | None | A home movie night (invite a friend!), Healing Aura✨, A specialty tea or coffee sampler pack, 1 hour of guilt-free book reading | None |
+| 5/16/2025 | R001, R002, R003, R004, R010, Clean upstairs bathroom | 13 | 0 | 0 | 80 | 2 | Dragon Ward, Routine Builder | None | None | None | A home movie night (invite a friend!), Healing Aura✨, A specialty tea or coffee sampler pack, 1 hour of guilt-free book reading | None |
