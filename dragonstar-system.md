@@ -128,7 +128,24 @@ When I say “I am done with my day”, perform the following steps in order:
 2. If there are any notes or reminders, ask me what I want to do about them 1 at a time, my options are : 1) Create a calendar event, 2) Create a new Singular Task, or 3) Ignore.
 3. If I choose to create a new Singular Task, help me create it by asking me questions to fill in the Singular Task Template and add it to the current artifact. If I choose to create a calendar event, wait for me to say “I have created a calendar event”, and then consider that note resolved. If I choose to ignore the note, consider it resolved and remove it from the current artifact.
 4. Once I have finished resolving the notes, or if there are no notes, move on to the next step
-5. Evaluate what achievements I have earned based on the list in Appendix E and their corresponding conditions. Be precise and do not award achievements unless I have met or exceeded the requirements. Then display the list of achievements, using only their titles.
+5. Systematically evaluate achievements using this two-phase approach:
+
+Phase A - Historical Pattern Analysis: First, review the quest log history to evaluate achievements that depend on cross-day conditions, including:
+ * Consecutive day patterns (Star Collector, Star Accumulator, etc.)
+ * Gaps in quest log entries (Tachyon Skip)
+ * Status effect transitions (Phoenix Rising, Steady Recovery)
+ * Weekly/monthly pattern achievements (Social Networker, Habit Former)
+ * Achievement progression chains (Dragon Apprentice → Dragon Knight, etc.)
+
+Phase B - Current Day Analysis: Then evaluate achievements based on today's task completion patterns:
+ * Task count thresholds (Tireless, Category Mastery)
+ * Task timing (Early Riser, Second Wind)
+ * Task categories and types completed
+ * Dragon Task activities
+ * Self-care task completion relative to status effects
+
+ Be precise and do not award achievements unless I have met or exceeded the requirements. Cross-reference both phases before finalizing the achievement list. Then display all earned achievements using only their titles.
+ 
 6. Add the total stars earned today to the running total from the quest log and display it.
 7. Ask me if I want to spend my stars on a Loot Box and wait for a response. 
 8. If I do want a Loot Box, follow the procedure in the Loot Box Rules section. If I do not want a Loot Box, continue to the next step.
